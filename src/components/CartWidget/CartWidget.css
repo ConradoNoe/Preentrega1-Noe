@@ -1,0 +1,11 @@
+p{
+    font-size: 30px;
+    margin: 0 auto;
+
+}
+p .cart-number{
+    border: 2px solid yellow;
+    border-radius: 50%;
+    background-color: rgb(255, 234, 0);
+    font-size: 10px;
+}

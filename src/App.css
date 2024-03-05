@@ -3,44 +3,7 @@
     margin: 0;
     padding: 0;
 }
- /*navbar  */
-.navbar-container{
-    height: 80px;
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    background-color: rgb(227, 183, 79);
-    text-align: center;
-    align-items: center;
-}
-.navbar-container .navbar-brand{
-    color: white;
-    font-size: 30px;
-    margin: 50px;
-}
-.navbar-container .navbar-nav ul{
-    display: flex;
-    align-items: center;
-    margin: 50px;
-}
-.navbar-container .navbar-nav ul li{
-    margin-left: 40px;
-    list-style: none;
-}
-.navbar-container .navbar-nav ul li button{
-    background-color: transparent;
-    border: none;
-    color: white;
-    font-size: 22px;
-    cursor: pointer;
-}
-.navbar-container .navbar-nav ul li button:hover{
-    transition: .5s;
-    color: rgb(93, 67, 29);
-}
-.navbar-container .navbar-nav ul li button .navbar-span{
-    font-size: 24px;
-}
-/* card component */
+
+
 
 

@@ -1,0 +1,19 @@
+.counter-container{
+    background-color: aqua;
+    display: block;
+    display: flex;
+    margin: 30px;
+    align-items: center;
+    justify-content: center;
+    color:black;
+    
+}
+
+.counter-container .button-restar{
+    background-color: transparent;
+    font-size: 30px;
+}
+.counter-container .button-sumar{
+    background-color: transparent;
+    font-size: 30px;
+}
